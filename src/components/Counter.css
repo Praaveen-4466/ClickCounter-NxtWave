@@ -1,0 +1,21 @@
+.heading {
+  color: black;
+  font-weight: bold;
+  font-family: "Roboto";
+  padding: 20px;
+  text-align: center;
+}
+
+.container {
+  background-color: rgb(237, 237, 243);
+  height: 100vh;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.count {
+  color: darkmagenta;
+  font-weight: bold;
+}
